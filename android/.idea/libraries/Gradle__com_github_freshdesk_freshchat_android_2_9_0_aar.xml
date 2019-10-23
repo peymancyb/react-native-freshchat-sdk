@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.freshdesk:freshchat-android:2.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/jars/libs/freshchat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

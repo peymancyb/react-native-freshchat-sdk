@@ -1,0 +1,175 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.freshchat.consumer.sdk.react.test" >
+4
+5    <uses-sdk
+5-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:5:15-41
+7        android:targetSdkVersion="26" />
+7-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:11:5-15:87
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:13:22-53
+13        android:label="Tests for com.freshchat.consumer.sdk.react.test"
+13-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:15:22-85
+14        android:targetPackage="com.freshchat.consumer.sdk.react.test" />
+14-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:12:22-83
+15
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+16-->[com.facebook.react:react-native:0.20.1] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/518a6cda8a5448d9385d2964e166f641/react-native-0.20.1/AndroidManifest.xml:11:5-78
+16-->[com.facebook.react:react-native:0.20.1] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/518a6cda8a5448d9385d2964e166f641/react-native-0.20.1/AndroidManifest.xml:11:22-75
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c0e1571f397bd23b1fc0334d0cdab9da/play-services-gcm-17.0.0/AndroidManifest.xml:23:5-82
+17-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c0e1571f397bd23b1fc0334d0cdab9da/play-services-gcm-17.0.0/AndroidManifest.xml:23:22-79
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c0e1571f397bd23b1fc0334d0cdab9da/play-services-gcm-17.0.0/AndroidManifest.xml:24:5-67
+18-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c0e1571f397bd23b1fc0334d0cdab9da/play-services-gcm-17.0.0/AndroidManifest.xml:24:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:17:5-79
+19-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:17:22-76
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23
+24    <application
+24-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:7:5-9:19
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/2ffb88316df49107418be0872d7babe4/core-1.0.0/AndroidManifest.xml:22:18-86
+26        android:debuggable="true" >
+26-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:7:18-43
+27        <uses-library android:name="android.test.runner" />
+27-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:8:9-60
+27-->/Users/peymanghazvini/Desktop/pyypl/pyypl-mobile-client/node_modules/react-native-freshchat-sdk/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5343829482820584818.xml:8:23-57
+28
+29        <activity
+29-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:20:9-22:68
+30            android:name="com.freshchat.consumer.sdk.activity.ChannelListActivity"
+30-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:21:13-83
+31            android:theme="@style/Theme.Freshchat.SelectedTheme" />
+31-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:22:13-65
+32        <activity
+32-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:23:9-27:57
+33            android:name="com.freshchat.consumer.sdk.activity.ConversationDetailActivity"
+33-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:24:13-90
+34            android:configChanges="orientation|screenSize"
+34-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:25:13-59
+35            android:theme="@style/Theme.Freshchat.SelectedTheme"
+35-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:26:13-65
+36            android:windowSoftInputMode="stateHidden" />
+36-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:27:13-54
+37        <activity
+37-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:28:9-31:68
+38            android:name="com.freshchat.consumer.sdk.activity.DeeplinkInterstitialActivity"
+38-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:29:13-92
+39            android:screenOrientation="portrait"
+39-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:30:13-49
+40            android:theme="@style/Theme.Freshchat.SelectedTheme" />
+40-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:31:13-65
+41        <activity
+41-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:32:9-36:58
+42            android:name="com.freshchat.consumer.sdk.activity.PictureAttachmentActivity"
+42-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:33:13-89
+43            android:configChanges="orientation|screenSize"
+43-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:34:13-59
+44            android:theme="@style/Theme.Freshchat.SelectedTheme"
+44-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:35:13-65
+45            android:windowSoftInputMode="adjustResize" />
+45-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:36:13-55
+46        <activity
+46-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:37:9-39:68
+47            android:name="com.freshchat.consumer.sdk.activity.CategoryListActivity"
+47-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:38:13-84
+48            android:theme="@style/Theme.Freshchat.SelectedTheme" />
+48-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:39:13-65
+49        <activity
+49-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:40:9-43:58
+50            android:name="com.freshchat.consumer.sdk.activity.ArticleListActivity"
+50-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:41:13-83
+51            android:theme="@style/Theme.Freshchat.SelectedTheme"
+51-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:42:13-65
+52            android:windowSoftInputMode="adjustResize" />
+52-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:43:13-55
+53        <activity
+53-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:44:9-46:68
+54            android:name="com.freshchat.consumer.sdk.activity.ArticleDetailActivity"
+54-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:45:13-85
+55            android:theme="@style/Theme.Freshchat.SelectedTheme" />
+55-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:46:13-65
+56        <activity
+56-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:47:9-50:54
+57            android:name="com.freshchat.consumer.sdk.activity.InterstitialActivity"
+57-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:48:13-84
+58            android:configChanges="orientation|screenSize"
+58-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:49:13-59
+59            android:theme="@style/Theme.AppCompat" />
+59-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:50:13-51
+60
+61        <service android:name="com.freshchat.consumer.sdk.service.FreshchatService" />
+61-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:52:9-87
+61-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:52:18-84
+62
+63        <receiver android:name="com.freshchat.consumer.sdk.receiver.FreshchatReceiver" >
+63-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:54:9-60:20
+63-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:54:19-87
+64            <intent-filter>
+64-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:55:13-59:29
+65                <action android:name="android.intent.action.BOOT_COMPLETED" />
+65-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:56:17-79
+65-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:56:25-76
+66                <action android:name="android.intent.action.LOCALE_CHANGED" />
+66-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:57:17-79
+66-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:57:25-76
+67                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+67-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:58:17-84
+67-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:58:25-81
+68            </intent-filter>
+69        </receiver>
+70        <receiver android:name="com.freshchat.consumer.sdk.receiver.FreshchatNetworkChangeReceiver" >
+70-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:61:9-65:20
+70-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:61:19-100
+71            <intent-filter>
+71-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:62:13-64:29
+72                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+72-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:63:17-79
+72-->[com.github.freshdesk:freshchat-android:2.9.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/6f8f040fd5af2ed309c8470675a3542e/freshchat-android-2.9.0/AndroidManifest.xml:63:25-76
+73            </intent-filter>
+74        </receiver>
+75
+76        <meta-data
+76-->[com.android.support:appcompat-v7:26.1.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/e4a41c2346dd5a38c111db5ef8bb8159/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+77            android:name="android.support.VERSION"
+77-->[com.android.support:appcompat-v7:26.1.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/e4a41c2346dd5a38c111db5ef8bb8159/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+78            android:value="26.1.0" />
+78-->[com.android.support:appcompat-v7:26.1.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/e4a41c2346dd5a38c111db5ef8bb8159/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+79        <meta-data
+79-->[android.arch.lifecycle:runtime:1.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/4464663fb769105e8b28960e2589148c/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+80            android:name="android.arch.lifecycle.VERSION"
+80-->[android.arch.lifecycle:runtime:1.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/4464663fb769105e8b28960e2589148c/runtime-1.0.0/AndroidManifest.xml:26:13-58
+81            android:value="27.0.0-SNAPSHOT" />
+81-->[android.arch.lifecycle:runtime:1.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/4464663fb769105e8b28960e2589148c/runtime-1.0.0/AndroidManifest.xml:27:13-44
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/291563c6708268cf4683b088770f2b39/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+87
+88        <meta-data
+88-->[com.google.android.gms:play-services-basement:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c905fed44d00124b8d0f2bca92214d04/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+89            android:name="com.google.android.gms.version"
+89-->[com.google.android.gms:play-services-basement:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c905fed44d00124b8d0f2bca92214d04/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+90            android:value="@integer/google_play_services_version" />
+90-->[com.google.android.gms:play-services-basement:17.0.0] /Users/peymanghazvini/.gradle/caches/transforms-2/files-2.1/c905fed44d00124b8d0f2bca92214d04/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+91    </application>
+92
+93</manifest>
